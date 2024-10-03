@@ -7,6 +7,7 @@ Assistante Virtuelle
 * personnes
 * tri
 
+* deux ou trois pages sur le sujet
 * problematique à partir des motiv, contexte, besoins 1/2 page
 * approche,comparatif, architecture
 * question principale, 2 à 3 lignes
@@ -25,6 +26,24 @@ Assistante Virtuelle
 - [x] L'assistance IA dans le commerce industriel
 
 - [x] Transformation industrielle grâce à l'assistance basées sur l'IA
-- [ ] 
+      
+- [x] 
+
+L'apport de l'ia dans la transformation industrielle, les
+
+__________________________________________________________
+L'IA et la vente industrielle cas des pièces automobiles
+__________________________________________________________
+
+Introductio
+  problematique
+  question
+Developpement 
+  etat de l'art
+  ....
+  ....
+  ....
+
+
 
 [-] L'une des difficultés rencontrées dans les proccess industriels est l'incapacité à satisfaire à plus de 50% les clients .
